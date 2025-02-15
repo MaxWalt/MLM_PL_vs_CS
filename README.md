@@ -1,3 +1,4 @@
+# A Comparative Analysis of Power Law and Critical Speed Models in Middle- and Long-Distance Running
 ## R code used to compute the publication: 
 ## "Using Multi-Level Models to compare performance prediction and characterization abilities between Power Law and Critical Speed Models in middle- and long-distance running"
 ## Maxime Walt, Arturo Casado, Jean-Marie le Goff
